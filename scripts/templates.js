@@ -1,6 +1,6 @@
 
 
-import { getAlbumImageUrl } from '../newModules/Utils.js';
+import { getAlbumImageUrl } from './utilities.js';
 
 
 
